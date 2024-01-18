@@ -1,4 +1,4 @@
-name: Build and Distribute Sofia-Sip
+name: Test Sofia-Sip
 
 on: push
 
