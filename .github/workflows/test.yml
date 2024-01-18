@@ -1,3 +1,5 @@
+name: Build and Distribute Sofia-Sip
+
 on: push
 
 jobs:
